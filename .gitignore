@@ -1,0 +1,10 @@
+/.editorconfig
+/.styleci.yml
+/.idea
+/.vagrant
+/vendor
+Homestead.json
+Homestead.yaml
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
